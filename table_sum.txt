@@ -1,0 +1,10 @@
+Total sum of all numeric values: 244954
+Total sum of all numeric values: 249033
+Total sum of all numeric values: 245604
+Total sum of all numeric values: 246800
+Total sum of all numeric values: 240347
+Total sum of all numeric values: 247541
+Total sum of all numeric values: 250372
+Total sum of all numeric values: 254707
+Total sum of all numeric values: 250806
+Total sum of all numeric values: 241911
